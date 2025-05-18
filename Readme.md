@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">HELLO WORLD !!! I'AM MUHAMAD ADAM</h2>
+<h2 align="left">HELLO WORLD !!! I'AM MUHAMAD ADAM !</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h5 align="left">CONTRIBUTION</h5>
+<!-- <h5 align="left">CONTRIBUTION</h5>
 
 ###
 
@@ -60,7 +60,7 @@
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MUHAMMAD%20ADAM&theme=dracula" alt="Layout with last medium posts"  />
-</div>
+</div> -->
 
 ###
 
